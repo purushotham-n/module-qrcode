@@ -1,5 +1,5 @@
 {
-    "name": "vnecoms/module-qrcode",
+    "name": "purushotham/module-qrcode",
     "description": "PHPQRCode porting and changed for PHP 5.3 compatibility",
     "keywords": ["php", "qrcode", "barcode"],
     "homepage": "https://github.com/aferrandini/PHPQRCode",
