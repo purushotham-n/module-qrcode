@@ -1,0 +1,2 @@
+# module-qrcode
+module-qrcode
